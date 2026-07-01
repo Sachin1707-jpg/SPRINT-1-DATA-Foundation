@@ -1,0 +1,1 @@
+table_name,source_file,rows_attempted,rows_inserted,rows_updated,rows_failed,load_timestamp,status,error_message

@@ -1,0 +1,1 @@
+rule_id,severity,table_name,column_name,row_identifier,expected,actual,description,checked_at
